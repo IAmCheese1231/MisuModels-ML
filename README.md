@@ -1,6 +1,6 @@
 # MisuModels-ML
 
-This code is a predictive software, running a sophisticated ensemble model 
+This project is mainly a predictive software, running a sophisticated ensemble model 
 with advanced backtesting to make real-time predictions. It takes in user-inputted
 parameters for the model to grow off of, and allows for graphical and numerical analysis
 of each model results.
