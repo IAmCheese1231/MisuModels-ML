@@ -2,7 +2,7 @@
 
 This code is a predictive software, running a sophisticated ensemble model 
 with advanced backtesting to make real-time predictions. It takes in user-inputted
-parameters for the model to grow off of, and allows for grpahical and numerical analysis
+parameters for the model to grow off of, and allows for graphical and numerical analysis
 of each model results.
 
 The model uses a weighted combination of Random Forest, Gradient Boosting, and Ridge Regression
