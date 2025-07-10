@@ -50,3 +50,14 @@ depicting trade success and P/L performance.
 
 Upon running any model, the latest trained ensemble is cached. Then, we just leverage most recent data with this model to calculate 
 a predicted price. 
+
+## Previous Models and Progress
+
+For the progress and intermediary failures/models that led to this, feel free to look at the following slideshow for key milestones.
+
+https://docs.google.com/presentation/d/12wMapa389-2oXqekd83qkprUOqrkWdvMGo_gs15ECn8/edit?usp=sharing
+
+For code regarding these models, reach out to ezhang24@andrew.cmu.edu for the actual files, alongside any elaboration on code logic or
+slideshow content if needed. 
+
+
