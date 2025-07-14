@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import threading
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
-from models.backtest_runner import run_regression_model
+from src.backtest_runner import run_regression_model
 import time
 import queue
 import gc

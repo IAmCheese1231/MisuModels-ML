@@ -10,7 +10,7 @@ import threading
 import gc
 
 try:
-    import models.core_model as aurora
+    import src.core_model as aurora
 except ImportError as e:
     print(f"Error importing aurora model: {e}")
     sys.exit(1)
