@@ -59,5 +59,3 @@ https://docs.google.com/presentation/d/12wMapa389-2oXqekd83qkprUOqrkWdvMGo_gs15E
 
 For code regarding these models, reach out to ezhang24@andrew.cmu.edu for the actual files, alongside any elaboration on code logic or
 slideshow content if needed. 
-
-
